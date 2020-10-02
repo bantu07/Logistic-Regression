@@ -1,5 +1,5 @@
 # Logistic-Regression-Project
-Here in this repository you will find all the Logistic Regression algorithms which i worked on. 
+Here in this repository you will find the Logistic Regression problem which i worked on. 
 Logistic Regression can be applied when the dependent variable is discrete/category/binary. Here the function used is probablistic function.
 Projects which i worked on are 
 1. Car Insurance dataset have to check whether customer claimed insurance or not.
